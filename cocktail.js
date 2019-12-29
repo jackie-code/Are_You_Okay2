@@ -46,7 +46,7 @@ function getDrinks(query) {
       $('.appendDrink').append(
         `<li>
       <p>${responseJson.drinks[i].strDrink}</p>
-      <img src="${responseJson.drinks[i].strDrinkThumb}" width="235" height="235" alt="drink image">
+      <img src="${responseJson.drinks[i].strDrinkThumb}" width="200" height="200" alt="drink image">
       <p>${responseJson.drinks[i].strInstructions}</p>
       </li>`
       )

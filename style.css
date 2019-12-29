@@ -168,8 +168,8 @@ ul.appendDrink {
 }
 
 .copeResults {
-  background-color: #FFEED0;
-  width: 280px;
+  background-color: none;
+  width: 100px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
