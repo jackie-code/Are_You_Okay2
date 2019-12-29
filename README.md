@@ -26,7 +26,7 @@ create a list of upcoming holidays
 
 ## Screenshots
 
-![alt text](images/whole400.jpg)
+![alt text](images/whole4002.jpg)
 
 ## Click the link here to try yourself
 [Click here](https://jackie-code.github.io/Are_You_Okay2/)
