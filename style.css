@@ -187,6 +187,12 @@ ul.appendDrink {
   margin-right: auto;
 }
 
+.home {
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #help {
   font-size: 30px;
 }
