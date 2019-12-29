@@ -1,0 +1,326 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #E8DAB3;
+}
+
+.result {
+  background-color: #FFDAC4;
+}
+
+#undbtn {
+  float: right;
+}
+
+#levelP {
+  font-size: 2rem;
+}
+
+#quack {
+  border-radius: 50%;
+  border: 10px solid #FFDAC4; 
+}
+
+#okPage {
+  display: flex;
+  justify-content: space-between;
+}
+
+form {
+  z-index: 1;
+}
+
+.gandalf {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1, h2, h3 {
+  font-family: 'Cinzel', serif;
+}
+
+p {
+font-family: 'Cinzel', serif;
+font-family: 'Tajawal', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  }
+
+#help {
+  text-decoration: line-through;
+}
+
+#deal {
+  font-size: 2.5rem;
+}
+
+button:hover {
+  transform: scale(1.2);
+  transition: transform .2s;
+}
+button.open.boton {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* .submit .back {
+  border: 2px solid black;
+} */
+
+#cool {
+  font-size: 2rem;
+}
+
+ul.appendDrink {
+  
+}
+
+@media only screen and (min-width : 320px) {
+
+  .boton {
+    left: -8px;
+    text-align: justify;
+  }
+
+  .disclaimer {
+    font-size: 11px;
+    font-family: 'Cinzel', serif;
+  }
+
+.openingPage {
+    background-color: #FFEED0;
+    padding: 15px;
+  }
+  
+  .openingPage h1{
+  text-align: center;
+  }
+  
+  .q {
+    background-color:#FFEED0;
+    width: 250px;
+    padding: 15px;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .together {
+   display: flex;
+   justify-content: space-between;
+  }
+  
+  .lowSat {
+    padding: 15px;
+  }
+
+  .medSat {
+    padding: 15px;
+  }
+
+.book {
+  width: 250px;
+  height: auto;
+}
+
+.gandalf {
+  width: 250px;
+  height: auto;
+}
+
+  .highSat {
+    padding: 15px;
+    background-color: #FFDAC4;
+  }
+
+  #js-error-message {
+    color: #E8CEB3;
+  }
+
+.openingPage {
+  background-color: #FFEED0;;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+  .suggestions {
+    background-color: #FFEED0;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copeResults {
+  background-color: #FFEED0;
+  width: 280px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  padding: 10px;
+  text-align: center;
+}
+
+.lowTitle {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.back {
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#help {
+  font-size: 30px;
+}
+
+#science {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+}
+
+
+
+/* ********************Medium Screen*********************** */
+@media only screen and (min-width: 750px)  {
+
+  h1{
+    font-size: 2rem;
+  }
+
+  #yogi {
+    float: left;
+  }
+
+  .disclaimer {
+    font-size: 15px;
+    font-family: 'Cinzel', serif;
+  }
+
+  .openingPage {
+    width: 700px;
+  }
+
+  .suggestions {
+  width: 700px;
+}
+
+  .copeResults {
+  width: 700px;
+  font-size: 1.5rem;
+}
+
+#help {
+  font-size: 30px;
+}
+
+.book {
+  width: 500px;
+  height: auto;
+}
+
+.gandalf {
+  width: 500px;
+  height: auto;
+}
+
+#sliderScience {
+  width: 400px;
+  height: auto;
+}
+
+#manage {
+  font-size: 1.5rem;
+}
+
+}
+
+
+
+/* ********************Large Screen*********************** */
+
+@media only screen and (min-width: 1200px) {
+
+  h1{
+    font-size: 3rem;
+  }
+
+  #yogi {
+    float: left;
+  }
+
+  .disclaimer {
+    font-size: 18px;
+    font-family: 'Cinzel', serif;
+  }
+
+  .openingPage {
+   width: 1000px;
+  }
+
+  .suggestions {
+  width: 1000px;
+}
+
+  .copeResults {
+  width: 1000px;
+  font-size: 2rem;
+}
+
+#help {
+  font-size: 30px;
+}
+
+.book {
+  width: 900px;
+  height: auto;
+}
+
+.gandalf {
+  width: 900px;
+  height: auto;
+}
+
+#sliderScience {
+  width: 700px;
+  height: auto;
+  font-size: 2rem;
+}
+
+#manage {
+  font-size: 1.7rem;
+}
+
+}
+
+
+/* ********************** */
+
+.hidden {
+      display: none;
+  }
+
+  
