@@ -72,7 +72,11 @@ button.open.boton {
 } */
 
 #cool {
-  font-size: 2rem;
+  font-size: 1.7rem;
+}
+
+#notBad {
+  font-size: 1.7rem;
 }
 
 ul.appendDrink {
@@ -249,7 +253,7 @@ ul.appendDrink {
 }
 
 .gandalf {
-  width: 500px;
+  width: 350px;
   height: auto;
 }
 
@@ -259,6 +263,22 @@ ul.appendDrink {
 }
 
 #manage {
+  font-size: 1.5rem;
+}
+
+.describeIt {
+  font-size: 1.5rem;
+}
+
+#cool {
+  font-size: 2rem;
+}
+
+#notBad {
+  font-size: 2rem;
+}
+
+.suggestions p {
   font-size: 1.5rem;
 }
 
@@ -306,7 +326,7 @@ ul.appendDrink {
 }
 
 .gandalf {
-  width: 900px;
+  width: 400px;
   height: auto;
 }
 
@@ -317,6 +337,22 @@ ul.appendDrink {
 }
 
 #manage {
+  font-size: 1.7rem;
+}
+
+.describeIt {
+  font-size: 2rem;
+}
+
+#cool {
+  font-size: 2.3rem;
+}
+
+#notBad {
+  font-size: 2.3rem;
+}
+
+.suggestions p {
   font-size: 1.7rem;
 }
 
