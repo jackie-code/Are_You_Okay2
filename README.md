@@ -3,8 +3,8 @@
 ### functionality
 * uses sliders to determine your overall level of general satisfaction and provides you with three different outcomes
 * outcome 1 - (lower satisfaction), provides some suggestions using 3 different API's
-* outcome 2 - (medium satisfaction), provides a list of suggestions 
-* outcome 3 - (high satisfaction), lets user know that they are on the right track
+* outcome 2 - (medium satisfaction), provides a list of suggestions and 1 API
+* outcome 3 - (high satisfaction), lets user know that they are on the right track plus 1 API
 
 - can readjust levels at any time to change outcome
 
