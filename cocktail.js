@@ -74,7 +74,7 @@ function getDrinks(query) {
 function watchForm() {
   $('.drink-form').submit(event => {
     event.preventDefault();
-    const searchDrink = $('#drink-search').val();
+    const searchDrink = $('.drink-search').val();
     getDrinks(searchDrink);
   });
 }
