@@ -48,6 +48,7 @@ font-family: 'Tajawal', sans-serif;
 
 ul {
   list-style-type: none;
+  
   }
 
 #help {
@@ -79,8 +80,8 @@ button.open.boton {
   font-size: 1.7rem;
 }
 
-ul.appendDrink {
-  
+.appendDrink {
+  padding-left: 0;
 }
 
 @media only screen and (min-width : 320px) {
@@ -169,7 +170,7 @@ ul.appendDrink {
 
 .copeResults {
   background-color: none;
-  width: 100px;
+  width: 300px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 0;
