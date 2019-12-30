@@ -2,6 +2,18 @@
   box-sizing: border-box;
 }
 
+.back {
+  background-color: rgba(103, 180, 84, .7);
+}
+
+.home {
+  background-color: rgba(172, 84, 180, 0.7);
+}
+
+.submit {
+  background-color: rgb(192, 255, 218);
+}
+
 html {
   background-color: #E8DAB3;
 }
